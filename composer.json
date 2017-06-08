@@ -4,7 +4,8 @@
     "require": {
         "knplabs/gaufrette": "^0.3",
         "microsoft/windowsazure": "0.*@dev",
-        "microsoft/azure-storage": "~0.15"
+        "microsoft/azure-storage": "~0.15",
+        "ext-fileinfo": "*"
     },
     "conflict": {
         "microsoft/windowsazure": "<0.4.3"
