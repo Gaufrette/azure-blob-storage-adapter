@@ -3,7 +3,8 @@
     "type": "metapackage",
     "require": {
         "knplabs/gaufrette": "^0.3",
-        "microsoft/windowsazure": "0.*@dev"
+        "microsoft/windowsazure": "0.*@dev",
+        "microsoft/azure-storage": "~0.15"
     },
     "conflict": {
         "microsoft/windowsazure": "<0.4.3"
