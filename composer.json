@@ -1,5 +1,6 @@
 {
     "name": "gaufrette/azure-blob-storage-adapter",
+    "description": "Azure adapter for Gaufrette",
     "type": "metapackage",
     "require": {
         "knplabs/gaufrette": "~0.3",
